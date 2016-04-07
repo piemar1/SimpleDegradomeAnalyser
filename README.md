@@ -1,2 +1,3 @@
 # SimpleDegradomeAnalyser
-Simple app for first insight for degradome data
+
+Simple application for molecular biologist enable the first insight and analyses of degradome data.
